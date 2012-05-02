@@ -1,0 +1,8 @@
+Credits
+
+Asterisk channels(#asterisk, #asterisk-dev) on FreeNode, listed in no particular order
+kpfleming
+ectospasm
+[TK]D-fender
+eZz
+Corydon76-home
